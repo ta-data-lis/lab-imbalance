@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab, we are going to explore a case of unbalanced classes. 
+ In this lab, we are going to explore a case of unbalanced classes. 
 
 ## Getting Started
 
