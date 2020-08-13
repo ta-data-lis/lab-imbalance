@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/macos,pycharm,visualstudio,jupyternotebook,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=macos,pycharm,visualstudio,jupyternotebook,visualstudiocode
 
+#Dataset (file too large)
+PS_20174392719_1491204439457_log.csv
+
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
