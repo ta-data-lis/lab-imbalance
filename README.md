@@ -7,8 +7,10 @@
 In this lab, we are going to explore a case of unbalanced classes. 
 
 ## Getting Started
-Dataset from: https://www.kaggle.com/ealaxi/paysim1
+
 Open the `ipynb` file in `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to prepare a dataset for most scikit-learn algorithms.
+
+Dataset from: https://www.kaggle.com/ealaxi/paysim1
 
 ## Deliverables
 
