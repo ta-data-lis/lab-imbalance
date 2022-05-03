@@ -1,4 +1,7 @@
 
+#Ignore my csv with the hole database for this project
+.your-code/archive.zip
+
 # Created by https://www.gitignore.io/api/macos,pycharm,visualstudio,jupyternotebook,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=macos,pycharm,visualstudio,jupyternotebook,visualstudiocode
 
